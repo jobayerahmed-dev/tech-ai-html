@@ -1,3 +1,3 @@
 # tech-ai-html
-this is my first git repository
-Author Jobayer-ahmed
+this is my first git repository </br>
+Author-jobayer ahmed
